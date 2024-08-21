@@ -22,8 +22,7 @@ public class MoveForward extends LinearOpMode {
                 robot.leftFront,
                 robot.rightFront,
                 robot.leftBack,
-                robot.rightBack,
-                this
+                robot.rightBack
         );
 
         // wait for Start button press...
